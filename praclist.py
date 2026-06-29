@@ -1,5 +1,5 @@
 #make a user fruit list 
-'''
+
 marks = []
 f1 = int(input("enter marks:"))
 marks.append(f1)
@@ -16,9 +16,9 @@ marks.append(f1)
 print(marks)
 marks.sort()
 print(marks)
-'''
+
 #change in data types 
-'''
+
 x = 10
 print(id(x))
 
@@ -32,13 +32,12 @@ print(id(marks))
 marks.append(40)
 
 print(id(marks))
-'''
+
 
 #sum of lists 
-'''
+
 l = [20,30,50,100]
 print(sum(l))
-'''
 
 #count no. of elements 
 
